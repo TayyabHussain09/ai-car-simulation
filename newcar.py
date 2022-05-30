@@ -6,9 +6,6 @@ import random
 import sys
 import os
 
-import neat
-import pygame
-
 # Constants
 # WIDTH = 1600
 # HEIGHT = 880
